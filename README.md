@@ -24,3 +24,25 @@ NSL-KDD
 
 ## Author
 Ratna Sai Hema
+
+## Results
+
+- Dataset: NSL-KDD
+- Model: Random Forest Classifier
+- Accuracy: 77.07%
+- Successfully classified network traffic into Normal and Attack categories.
+
+## Key Features
+
+- Data Preprocessing
+- Label Encoding
+- Feature Selection
+- Random Forest Classification
+- Feature Importance Visualization
+
+## Future Enhancements
+
+- XGBoost Implementation
+- Deep Learning Models
+- Real-Time Attack Detection
+- Flask Web Application Deployment
