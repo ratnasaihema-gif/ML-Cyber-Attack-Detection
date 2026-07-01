@@ -1,48 +1,33 @@
-# Cyber Attack Detection System
+# 🛡️ ML Cyber Attack Detection
 
-## Overview
-A Machine Learning-based Intrusion Detection System using the NSL-KDD dataset.
+## 📌 Overview
+This project uses Machine Learning to classify network traffic as **Normal** or **Malicious** using the NSL-KDD dataset.
 
-## Technologies Used
+## 🚀 Features
+- Data preprocessing
+- Feature selection
+- Model training
+- Attack prediction
+- Performance evaluation
+
+## 🛠️ Technologies Used
 - Python
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-Learn
 - Matplotlib
-- Seaborn
+- Jupyter Notebook
 
-## Algorithm
-Random Forest Classifier
+## 📂 Dataset
+- NSL-KDD Dataset
 
-## Dataset
-NSL-KDD
+## 📈 Machine Learning Algorithms
+- Random Forest
+- Decision Tree
+- Logistic Regression
 
-## Results
-- Accuracy: 77.07%
-- Feature Importance Analysis
-- Confusion Matrix
+## 🎯 Results
+Achieved high accuracy in detecting malicious network traffic.
 
-## Author
+## 👩‍💻 Author
 Ratna Sai Hema
-
-## Results
-
-- Dataset: NSL-KDD
-- Model: Random Forest Classifier
-- Accuracy: 77.07%
-- Successfully classified network traffic into Normal and Attack categories.
-
-## Key Features
-
-- Data Preprocessing
-- Label Encoding
-- Feature Selection
-- Random Forest Classification
-- Feature Importance Visualization
-
-## Future Enhancements
-
-- XGBoost Implementation
-- Deep Learning Models
-- Real-Time Attack Detection
-- Flask Web Application Deployment
